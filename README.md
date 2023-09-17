@@ -1,5 +1,5 @@
 # MLPassCheck
-Partly working (?) and abandoned project used for learning more about machine learning, neural nets, data processing, etc.
+Simple, partly working (?), and abandoned project used for learning more about machine learning, neural nets, data processing, etc.
 
 # Password Strength Checker
 
