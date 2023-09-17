@@ -23,5 +23,5 @@ The project consists of the following files and directories:
 
 - `main.py`: The main script
 - `data.csv`: Your dataset containing passwords and their strength labels.
-- `passchecker.py`: A simple Python script to check the strength of a password using the trained model.
+
 
