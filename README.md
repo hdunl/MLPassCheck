@@ -11,11 +11,11 @@ Before you begin, ensure you have met the following requirements:
 
 - Python 3.7 or higher
 - pip package manager
-- TensorFlow (Install using `pip install tensorflow`)
-- NumPy (Install using `pip install numpy`)
-- pandas (Install using `pip install pandas`)
-- scikit-learn (Install using `pip install scikit-learn`)
-- Keras (Install using `pip install keras`)
+- TensorFlow 
+- NumPy 
+- pandas 
+- scikit-learn 
+- Keras 
 
 ## Project Structure
 
