@@ -1,9 +1,9 @@
 # MLPassCheck
-Partly working and abandoned project used for learning more about machine learning, neural nets, data processing, etc.
+Partly working (?) and abandoned project used for learning more about machine learning, neural nets, data processing, etc.
 
 # Password Strength Checker
 
-This is a Python project for classifying the strength of passwords using deep learning. It uses a recurrent neural network (LSTM) to analyze passwords and determine whether they are weak, moderate, or strong.
+This is a Python project for classifying the strength of passwords using deep learning. It uses a recurrent neural network (LSTM) to analyze passwords and determine whether they are weak or strong.
 
 ## Prerequisites
 
