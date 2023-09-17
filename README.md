@@ -21,6 +21,7 @@ Before you begin, ensure you have met the following requirements:
 
 The project consists of the following files and directories:
 
+- `main.py`: The main script
 - `data.csv`: Your dataset containing passwords and their strength labels.
-- `password_strength_checker.py`: A simple Python script to check the strength of a password using the trained model.
+- `passchecker.py`: A simple Python script to check the strength of a password using the trained model.
 
