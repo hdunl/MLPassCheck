@@ -22,6 +22,6 @@ Before you begin, ensure you have met the following requirements:
 The project consists of the following files and directories:
 
 - `main.py`: The main script
-- `data.csv`: Your dataset containing passwords and their strength labels.
+- `data.csv`: Your dataset containing passwords and their strength labels. headers must be "password" and "strength", strength must be an int from 0 - 2. (Ex. P@ssw0rd21;* | 2)
 
 
