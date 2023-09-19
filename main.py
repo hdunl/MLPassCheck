@@ -4,7 +4,7 @@ import tensorflow as tf
 from sklearn.model_selection import train_test_split
 from keras.utils import to_categorical
 
-# Step 1: Load Data from Excel
+# Load Data from Excel
 df = pd.read_csv('data.csv', usecols=['password', 'strength'])
 
 # Clean the 'strength' column by removing any non-integer values
@@ -31,7 +31,7 @@ for password in passwords:
     preprocessed_password = password_to_one_hot(password)
     preprocessed_passwords.append(preprocessed_password)
 
-# Step 3: Design Neural Network Model
+# Design Neural Network Model
 model = tf.keras.Sequential([
     tf.keras.layers.LSTM(64, input_shape=(20, len(charset)), return_sequences=True),
     tf.keras.layers.LSTM(64),
